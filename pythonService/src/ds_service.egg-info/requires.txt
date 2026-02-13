@@ -1,0 +1,8 @@
+Flask~=3.0
+kafka-python
+Pillow~=11.3
+python-dotenv~=1.0
+langchain-google-genai
+langchain-mistralai
+langchain-openai
+google-generativeai
